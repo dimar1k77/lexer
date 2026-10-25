@@ -1,6 +1,3 @@
-// Лексический и синтаксический анализатор для подмножества языка C++
-// Запуск: ./analyzer файл.cpp   (по умолчанию читается test_ok.cpp)
-
 #include <cstdlib>
 #include <iostream>
 #include <iomanip>
